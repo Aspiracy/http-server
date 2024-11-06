@@ -1,3 +1,0 @@
-/Users/suhail/Desktop/Programming/C_CPP/HTTP Server/build/CMakeFiles/http_server.dir
-/Users/suhail/Desktop/Programming/C_CPP/HTTP Server/build/CMakeFiles/edit_cache.dir
-/Users/suhail/Desktop/Programming/C_CPP/HTTP Server/build/CMakeFiles/rebuild_cache.dir
